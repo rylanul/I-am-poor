@@ -12,6 +12,8 @@
 		00623626220A3B1B00F98EAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00623624220A3B1B00F98EAF /* Main.storyboard */; };
 		00623628220A3B1C00F98EAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00623627220A3B1C00F98EAF /* Assets.xcassets */; };
 		0062362B220A3B1C00F98EAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00623629220A3B1C00F98EAF /* LaunchScreen.storyboard */; };
+		00623633220A3EAD00F98EAF /* clipart908803.png in Resources */ = {isa = PBXBuildFile; fileRef = 00623632220A3EAD00F98EAF /* clipart908803.png */; };
+		00623635220A401800F98EAF /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 00623634220A401800F98EAF /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		00623627220A3B1C00F98EAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0062362A220A3B1C00F98EAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0062362C220A3B1C00F98EAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00623632220A3EAD00F98EAF /* clipart908803.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = clipart908803.png; path = ../../../../../Downloads/clipart908803.png; sourceTree = "<group>"; };
+		00623634220A401800F98EAF /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +42,7 @@
 		00623614220A3B1B00F98EAF = {
 			isa = PBXGroup;
 			children = (
+				00623634220A401800F98EAF /* readme.md */,
 				0062361F220A3B1B00F98EAF /* I am poor */,
 				0062361E220A3B1B00F98EAF /* Products */,
 			);
@@ -57,6 +62,7 @@
 				00623620220A3B1B00F98EAF /* AppDelegate.swift */,
 				00623622220A3B1B00F98EAF /* ViewController.swift */,
 				00623624220A3B1B00F98EAF /* Main.storyboard */,
+				00623632220A3EAD00F98EAF /* clipart908803.png */,
 				00623627220A3B1C00F98EAF /* Assets.xcassets */,
 				00623629220A3B1C00F98EAF /* LaunchScreen.storyboard */,
 				0062362C220A3B1C00F98EAF /* Info.plist */,
@@ -125,6 +131,8 @@
 				0062362B220A3B1C00F98EAF /* LaunchScreen.storyboard in Resources */,
 				00623628220A3B1C00F98EAF /* Assets.xcassets in Resources */,
 				00623626220A3B1B00F98EAF /* Main.storyboard in Resources */,
+				00623635220A401800F98EAF /* readme.md in Resources */,
+				00623633220A3EAD00F98EAF /* clipart908803.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
